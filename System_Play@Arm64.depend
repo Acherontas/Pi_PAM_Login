@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1738427946 source:/home/acherontas/codeblock/System_Play@Arm64/main.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+
